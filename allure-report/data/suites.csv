@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Feb 14 10:57:06 EET 2020","Fri Feb 14 10:57:43 EET 2020","36653","","Shopping list","","Add a recipe though input field ""Add recipe...""","","Add a recipe though input field ""Add recipe...""",""
-"passed","Fri Feb 14 10:56:26 EET 2020","Fri Feb 14 10:57:06 EET 2020","39967","","Shopping list","","Add a recipe through settings button","","Add a recipe through settings button",""
