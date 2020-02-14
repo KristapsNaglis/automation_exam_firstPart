@@ -1,0 +1,21 @@
+[ {
+  "uid" : "e8fe41a9ad3e92c9",
+  "name" : "Add a recipe though input field \"Add recipe...\"",
+  "time" : {
+    "start" : 1581670626879,
+    "stop" : 1581670663532,
+    "duration" : 36653
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d56a1f199c748620",
+  "name" : "Add a recipe through settings button",
+  "time" : {
+    "start" : 1581670586811,
+    "stop" : 1581670626778,
+    "duration" : 39967
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

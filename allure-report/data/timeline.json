@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SIA-TDL-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "3901@SIA-TDL-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "Add a recipe through settings button",
+        "uid" : "d56a1f199c748620",
+        "parentUid" : "b773099be475dcd71923dcde72549fb6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581670586811,
+          "stop" : 1581670626778,
+          "duration" : 39967
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Add a recipe though input field \"Add recipe...\"",
+        "uid" : "e8fe41a9ad3e92c9",
+        "parentUid" : "b773099be475dcd71923dcde72549fb6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581670626879,
+          "stop" : 1581670663532,
+          "duration" : 36653
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b773099be475dcd71923dcde72549fb6"
+    } ],
+    "uid" : "9ed5405d327284c80f9214e9ae39ccfa"
+  } ]
+}
